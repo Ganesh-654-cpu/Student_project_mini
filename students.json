@@ -1,0 +1,26 @@
+[
+    {
+        "roll": "101",
+        "name": "Ganesh",
+        "age": "22",
+        "course": "Python"
+    },
+    {
+        "roll": "4",
+        "name": "nell",
+        "age": "22",
+        "course": "MERN"
+    },
+    {
+        "roll": "23",
+        "name": "rahul",
+        "age": "20",
+        "course": "Java"
+    },
+    {
+        "roll": "2",
+        "name": "Jagruti",
+        "age": "22",
+        "course": ".Net"
+    }
+]

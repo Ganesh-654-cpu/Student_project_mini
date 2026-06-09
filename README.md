@@ -1,4 +1,4 @@
-# Student_project_mini
+
 
 # 🎓 Student Management System
 
